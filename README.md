@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @JonasKonrad
+- 👀 I’m interested in deep learning, programming & scripting languages (C(++)/C#/Java, Python), Electronics
+- 💞️ I’m looking to collaborate on arbitrary open-source for µC gadgets
