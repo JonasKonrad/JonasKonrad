@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @JonasKonrad
-- 🤖 I am a [PhD student](https://webusers.i3s.unice.fr/~konrad/) at the Université Côte d'Azur (CNRS I3S together with IIT PAVIS).
+- 🤖 I am a [PhD student](http://konrad.staff.ifgi.de/) at the [Institute for Geoinformatics](https://www.uni-muenster.de/Geoinformatics/en/index.html), [University of Münster](https://www.uni-muenster.de/en/).
 - 👀 I’m interested in deep learning, programming & scripting languages (C(++)/C#/Java, Bash, Python), electronics
-- 🔃 Privately, I’m looking to collaborate on arbitrary open-source for µC gadgets
